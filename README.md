@@ -1,8 +1,8 @@
 # Task-1-Data-cleaning
 # Resources used
-Dataset-[Titanic.csv](https://www.kaggle.com/datasets/rushikeshlavate/titanic-datset)-
+Dataset-[Titanic.csv](https://www.kaggle.com/datasets/rushikeshlavate/titanic-datset)
 
-The dataset contains about passengers(age,sex,fae,class and some)data who were on board the Titanic.-
+The dataset contains about passengers(age,sex,fae,class and some)data who were on board the Titanic.
 
 # objectives
 1.Import the dataset and explore basic info (nu ls, data types).

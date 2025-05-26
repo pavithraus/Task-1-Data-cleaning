@@ -5,11 +5,11 @@ Dataset-[Titanic.csv](https://www.kaggle.com/datasets/rushikeshlavate/titanic-da
 The dataset contains about passengers(age,sex,fae,class and some)data who were on board the Titanic.
 
 # objectives
-1.Import the dataset and explore basic info (nu ls, data types). 
-2.Handle missing values using mean/median/imputation. 
-3.Convert categorical features into numerical using encoding. 
-4.Normalize/standardize the numerical features. 
-5.Visualize outliers using boxplots and remove them. 
+1.Import the dataset and explore basic info (nu ls, data types).- 
+2.Handle missing values using mean/median/imputation.- 
+3.Convert categorical features into numerical using encoding.-  
+4.Normalize/standardize the numerical features.- 
+5.Visualize outliers using boxplots and remove them.-  
 # Steps Performed:
 1. Import & Explore Data
  > Loaded the dataset using pandas
